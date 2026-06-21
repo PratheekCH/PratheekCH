@@ -62,39 +62,6 @@ Motivated Computer Science student specializing in Data Science, with hands-on e
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ AI-Powered Security Alert Analysis & Response Assistant
-
-* Built an AI-powered cybersecurity assistant that analyzes security alerts and generates threat explanations, risk severity levels, and recommended response actions.
-* Implemented Retrieval-Augmented Generation (RAG) for evidence-backed threat analysis.
-* Designed a vector-based knowledge retrieval pipeline using embeddings.
-
-**Tech Stack:** Python • ChromaDB • RAG • Vector Embeddings • LLM APIs
-
----
-
-### ⏳ TimeTide
-
-* MERN-based productivity and focus tracking application.
-* Pomodoro-powered focus session management.
-* Productivity analytics dashboard with task insights.
-* Achieved a 40% productivity improvement during testing.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
----
-
-### 🤖 Pantry Management System
-
-* AI-powered inventory tracking platform.
-* Smart pantry monitoring and management.
-* Dashboard analytics for inventory insights.
-
-**Tech Stack:** Next.js • React.js • AI APIs
-
----
-
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -108,19 +75,6 @@ Motivated Computer Science student specializing in Data Science, with hands-on e
 </a>
 
 </p>
-
----
-
-## 📜 Certifications
-
-* Programming in Java — NPTEL (IIT Kharagpur)
-* Database Management Systems (DBMS) — NPTEL (IIT Kharagpur)
-* Foundations of R Software — NPTEL (IIT Kanpur)
-* Java & Python — Spoken Tutorial (IIT Bombay)
-* MongoDB Node.js Developer Path Certification
-* AWS Data Engineering Virtual Internship
-
----
 
 ## ⚙️ Tech Stack
 
